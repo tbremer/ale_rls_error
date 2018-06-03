@@ -1,0 +1,6 @@
+[package]
+name = "ale_rls_error"
+version = "0.1.0"
+authors = ["Tom Bremer <tom@tbremer.com>"]
+
+[dependencies]
